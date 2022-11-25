@@ -1,0 +1,13 @@
+[report]
+include =   einfochips/*.py
+            einfochips/core/*.py
+            einfochips/output/*.py
+            einfochips/providers/aws/*.py
+            einfochips/providers/aws/facade/*.py
+            einfochips/providers/aws/resources/*.py
+            einfochips/providers/azure/*.py
+            einfochips/providers/azure/facade/*.py
+            einfochips/providers/azure/resources/*.py
+            einfochips/providers/gcp/*.py
+            einfochips/providers/gcp/facade/*.py
+            einfochips/providers/gcp/resources/*.py
